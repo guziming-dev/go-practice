@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, 我的第一个 Go 程序")
+	fmt.Println("第二次提交")
 }
